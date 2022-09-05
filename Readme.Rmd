@@ -27,7 +27,7 @@ You can install the development version of whaley like so:
 
 ```{r, install, results = "hide", eval = FALSE}
 # install.packages("remotes")
-remotes::install_github("fontikar/ohwhaley")
+remotes::install_github("luke4157/whaley")
 ```
 ```
 
